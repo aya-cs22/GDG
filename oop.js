@@ -216,6 +216,5 @@ pourInCup() {
   console.log("Pouring the coffee into the cup...");
 }
 }
-
 const coffeeMachine = new CoffeeMachine();
 coffeeMachine.brewCoffee(); 
